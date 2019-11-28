@@ -1,0 +1,12 @@
+
+.vs/PokeTools/DesignTimeBuild/.dtbcache
+
+.vs/PokeTools/v16/.suo
+
+*.ide
+
+*.testlog
+
+*.manifest
+
+*.lock
