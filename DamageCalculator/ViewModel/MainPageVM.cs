@@ -2,7 +2,7 @@
 
 namespace DamageCalculator.ViewModel
 {
-    public class CalcPageVM
+    public class MainPageVM
     {
         private double Calc()
         {

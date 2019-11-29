@@ -16,9 +16,9 @@ namespace DamageCalculator.View
     /// <summary>
     /// CalcPage.xaml の相互作用ロジック
     /// </summary>
-    public partial class CalcPage : Page
+    public partial class MainPage : Page
     {
-        public CalcPage()
+        public MainPage()
         {
             InitializeComponent();
         }

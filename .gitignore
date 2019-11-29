@@ -16,3 +16,13 @@
 *.ide-wal
 
 *.cache
+
+*.dll
+
+*.exe
+
+*.pdb
+
+*.baml
+
+*.resources

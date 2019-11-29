@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\CalcPage.xaml.cs">
+    <Compile Update="View\MainPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -15,7 +15,7 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\CalcPage.xaml">
+    <Page Update="View\MainPage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
