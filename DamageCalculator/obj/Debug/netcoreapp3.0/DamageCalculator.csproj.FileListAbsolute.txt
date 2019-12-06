@@ -17,3 +17,4 @@ C:\Users\B860\Desktop\PokeTools\DamageCalculator\obj\Debug\netcoreapp3.0\DamageC
 C:\Users\B860\Desktop\PokeTools\DamageCalculator\obj\Debug\netcoreapp3.0\DamageCalculator.AssemblyInfo.cs
 C:\Users\B860\Desktop\PokeTools\DamageCalculator\obj\Debug\netcoreapp3.0\DamageCalculator.dll
 C:\Users\B860\Desktop\PokeTools\DamageCalculator\obj\Debug\netcoreapp3.0\DamageCalculator.pdb
+C:\Users\B860\Desktop\PokeTools\DamageCalculator\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
