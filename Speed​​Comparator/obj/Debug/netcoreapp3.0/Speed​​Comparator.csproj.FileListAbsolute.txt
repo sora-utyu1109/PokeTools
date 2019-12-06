@@ -1,0 +1,5 @@
+C:\Users\B860\Desktop\PokeTools\Speed​​Comparator\obj\Debug\netcoreapp3.0\Speed​​Comparator.csprojAssemblyReference.cache
+C:\Users\B860\Desktop\PokeTools\Speed​​Comparator\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\B860\Desktop\PokeTools\Speed​​Comparator\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\B860\Desktop\PokeTools\Speed​​Comparator\obj\Debug\netcoreapp3.0\Speed​​Comparator_MarkupCompile.cache
+C:\Users\B860\Desktop\PokeTools\Speed​​Comparator\obj\Debug\netcoreapp3.0\Speed​​Comparator_MarkupCompile.lref
