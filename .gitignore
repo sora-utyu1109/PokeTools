@@ -10,3 +10,19 @@
 *.manifest
 
 *.lock
+
+*.ide-shm
+
+*.ide-wal
+
+*.cache
+
+*.dll
+
+*.exe
+
+*.pdb
+
+*.baml
+
+*.resources
