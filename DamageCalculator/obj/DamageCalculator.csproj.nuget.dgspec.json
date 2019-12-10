@@ -42,6 +42,20 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "NumericUpDown": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.112, )"
+            },
+            "System.Windows.Interactivity.WPF": {
+              "target": "Package",
+              "version": "[2.0.20525, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

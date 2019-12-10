@@ -26,3 +26,9 @@
 *.baml
 
 *.resources
+
+DamageCalculator/obj/Debug/netcoreapp3.0/MainWindow.g.i.cs
+
+DamageCalculator/obj/Debug/
+
+*.db
